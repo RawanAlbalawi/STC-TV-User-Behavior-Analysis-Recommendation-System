@@ -1,0 +1,2 @@
+# STC-TV-User-Behavior-Analysis-Recommendation-System
+📌 Project Overview  This project was completed as part of the Data Analysis Virtual Work Experience Program offered by STC through the Misk Foundation.  The project explores user viewing behavior on a streaming platform, identifies content consumption patterns, forecasts future viewing trends, and recommends similar content based on user ratings.
